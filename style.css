@@ -1,0 +1,22 @@
+body {
+    background-color: #efd2f3;
+}
+.forma {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
+
+.input {
+    margin-bottom: 15px;
+}
+.input_log {
+    margin-bottom: 5px;
+}
+.input_pass {
+    margin-bottom: 5px;
+}
+.error-message {
+    color: red;
+}
